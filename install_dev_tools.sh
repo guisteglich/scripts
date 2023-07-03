@@ -37,8 +37,11 @@ sudo apt install -f -y
 # Instalar o Spotify
 sudo snap install spotify
 
-# Instalar o Insomnia (substituto do Postman)
+# Instalar o Insomnia 
 sudo snap install insomnia
+
+# Instalar o Discord
+sudo snap install discord
 
 # Informar que o script foi concluído
 echo "Instalação concluída!"
